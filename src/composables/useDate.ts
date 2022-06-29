@@ -2,7 +2,7 @@ import { ref, onMounted } from 'vue'
 
 export const useDate = () => {
   const hour = ref<number>(0)
-  const minutes = ref<number>(0)
+  const minutes = ref<number | string>(0)
 
   const refreshData = () => {
     hour.value = new Date().getHours()
