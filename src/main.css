@@ -1,4 +1,5 @@
 /** dark-decay **/
+/*
 :root {
   --background: #101419;
   --contrast-bg: #15191e;
@@ -23,9 +24,9 @@
   --white: #dee1e6;
   --light-white: #e3e6eb;
 }
+*/
 
 /** light-decay **/
-/*
 :root {
   --background: #dee1e6 ;
   --contrast-bg: #d9dce1;
@@ -50,7 +51,6 @@
   --white: #101419;
   --light-white: #1f2328;
 }
-*/
 
 @font-face {
   font-family: 'fredoka';
