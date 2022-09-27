@@ -1,4 +1,31 @@
-/** dark-decay **/
+/** decayce **/
+:root {
+  --background: #0d0f18;
+  --contrast-bg: #0f111a;
+  --lighter-bg: #11131c;
+  --foreground: #a5b6cf;
+  --foreground-dim: #a5b6cf;
+
+  --black: #151720;
+  --light-black: #262831;
+  --red: #dd6777;
+  --light-red: #e26c7c;
+  --green: #90ceaa;
+  --light-green: #95d3af;
+  --yellow: #ecd3a0;
+  --light-yellow: #f1d8a5;
+  --blue: #86aaec;
+  --light-blue: #8baff1;
+  --magenta: #c296eb;
+  --light-magenta: #c79bf0;
+  --cyan: #93cee9;
+  --light-cyan: #98d3ee;
+  --white: #cbced3;
+  --light-white: #d0d3d8;
+}
+
+/** dark decay **/
+/*
 :root {
   --background: #101419;
   --contrast-bg: #15191e;
@@ -23,6 +50,7 @@
   --white: #dee1e6;
   --light-white: #e3e6eb;
 }
+*/
 
 /** light-decay **/
 /*
