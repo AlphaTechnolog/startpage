@@ -121,7 +121,7 @@ body {
 }
 
 .main-box .service-item {
-  background-color: var(--contrast-bg);
+  background-color: var(--lighter-bg);
   color: var(--foreground);
   border: solid 0px transparent;
   border-radius: 10px;
